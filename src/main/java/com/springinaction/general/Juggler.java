@@ -1,4 +1,4 @@
-package com.springinaction.springidol;
+package com.springinaction.general;
 
 public class Juggler implements Performer {
     private int beanBags = 3;

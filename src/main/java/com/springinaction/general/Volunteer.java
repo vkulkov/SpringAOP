@@ -1,4 +1,4 @@
-package com.springinaction.springidol;
+package com.springinaction.general;
 
 public class Volunteer implements Thinker {
     private String thoughts;

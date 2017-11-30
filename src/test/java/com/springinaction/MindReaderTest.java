@@ -1,7 +1,7 @@
 package com.springinaction;
 
-import com.springinaction.springidol.MindReader;
-import com.springinaction.springidol.Thinker;
+import com.springinaction.general.MindReader;
+import com.springinaction.general.Thinker;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
